@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Logo](app_logo.png)
+![Weather App Logo](https://github.com/Amirkia1998/Kotlin-Weather-MVVM/blob/main/Weather-master/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png)
 
 The Weather App is a simple Android application built using Kotlin that provides real-time weather information for cities around the world. It follows the Model-View-ViewModel (MVVM) architectural pattern and utilizes various Android libraries and components to deliver a user-friendly experience. This app was developed as part of the final project for university "Mobile App Programming" course.
 
@@ -68,7 +68,15 @@ To get started with this project, follow these steps:
 6. View your search history and clear it using the "Clear History" button.
 
 ## Screenshots
-![Weather App Logo](app_logo.png)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Amirkia1998/Kotlin-Weather-MVVM/blob/main/Screenshots/photo_2023-09-30_02-10-17.jpg" alt="Image 1" width="250px"></td>
+    <td><img src="https://github.com/Amirkia1998/Kotlin-Weather-MVVM/blob/main/Screenshots/photo_2023-09-30_02-11-48.jpg" alt="Image 2" width="250"></td>
+  </tr>
+</table>
+
+
 
 ## Contributing
 
