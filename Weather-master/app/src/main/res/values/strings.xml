@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather by AKR</string>
+    <string name="error_message">Error, Try Again!</string>
+</resources>
